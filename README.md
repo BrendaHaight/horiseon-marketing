@@ -39,6 +39,10 @@ Upon opening the website, users can navigate through the various sections using 
 
 Contributions to the Horiseon project are welcome! If you find any bugs, issues, or have suggestions for improvements, please feel free to open an issue or submit a pull request. Your feedback helps make Horiseon better for everyone.
 
+## Code Attribution
+
+The initial version of this project was based on a template provided by [UT Bootcamp ]. The template served as a foundation, and modifications were made to customize it according to the requirements of the assignment. Specific changes include [accessibility].
+
 ## License
 
 The Horiseon project is licensed under the MIT License.
